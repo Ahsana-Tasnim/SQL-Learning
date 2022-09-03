@@ -1,0 +1,30 @@
+Put your answers under the respective Task # below:
+
+
+
+Task # 1
+
+1. Addresses
+2. Administrators
+3. Categories
+4. Customers
+5. OrderItems
+6. Orders
+7. Products
+
+
+Task # 2
+
+1. ProductId - int
+2. CategoryId - int
+3. ProductCode - varchar(10)
+4. ProductName - varchar (255)
+5. Description - text
+6. ListPrice- money
+7. DiscountPercent - money
+8. DateAdded - Datetime
+
+
+Task # 3
+
+OrderId
